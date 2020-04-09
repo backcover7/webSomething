@@ -1,2 +1,1 @@
-# webSomething
-Poc/Exp Practice in the domain of Web Security
+Pocsuite/Python3 based PoC/Exp scripts
